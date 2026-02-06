@@ -1,4 +1,4 @@
-# financial-data-regression-modeling
+# Credit-Risk-Feature-Diagnostics
 Applied statistical modeling for credit risk classification with a focus on feature diagnostics, interpretability, and model behavior under class imbalance.
 
 ---
